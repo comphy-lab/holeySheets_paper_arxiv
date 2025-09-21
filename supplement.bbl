@@ -1,0 +1,37 @@
+\providecommand{\noopsort}[1]{}\providecommand{\singleletter}[1]{#1}%
+\begin{thebibliography}{10}
+
+\bibitem{basilliskpopinet}
+S. Popinet and {collaborators}, Basilisk {C}, \url{http://basilisk.fr} (Last accessed: April, 2025), 2013--2025.
+
+\bibitem{popinet2015quadtree}
+S. Popinet, {\em A quadtree-adaptive multigrid solver for the Serre--Green--Naghdi equations}, J. Comput. Phys. {\bf 302},  336  (2015).
+
+\bibitem{coderepository}
+A.~K. Dixit and V. Sanjay, Code repository: {Holey Sheets}, \href{https://github.com/comphy-lab/HoleySheet}{https://github.com/comphy-lab/HoleySheet}, 2025.
+
+\bibitem{tryggvason2011direct}
+G. Tryggvason, R. Scardovelli, and S. Zaleski, {\em {Direct} {Numerical} {Simulations} of {Gas}--{Liquid} {Multiphase} {Flows}} (Cambridge University Press, ADDRESS, 2011).
+
+\bibitem{brackbill1992continuum}
+J.~U. Brackbill, D.~B. Kothe, and C. Zemach, {\em A continuum method for modeling surface tension}, J. Comput. Phys. {\bf 100},  335  (1992).
+
+\bibitem{sussman2000coupled}
+M. Sussman and E.~G. Puckett, {\em A coupled level set and volume-of-fluid method for computing 3D and axisymmetric incompressible two-phase flows}, J. Comput. Phys. {\bf 162},  301  (2000).
+
+\bibitem{saini2025implementation}
+M. Saini, V. Sanjay, Y. Saade, D. Lohse, and S. Popinet, {\em Implementation of integral surface tension formulations in a volume of fluid framework and their applications to Marangoni flows}, arXiv preprint arXiv:2502.02712  (2025).
+
+\bibitem{popinet2009accurate}
+S. Popinet, {\em An accurate adaptive solver for surface-tension-driven interfacial flows}, J. Comput. Phys. {\bf 228},  5838  (2009).
+
+\bibitem{duchemin2002jet}
+L. Duchemin, S. Popinet, C. Josserand, and S. Zaleski, {\em Jet formation in bubbles bursting at a free surface}, Phys. Fluids {\bf 14},  3000  (2002).
+
+\bibitem{deike2018dynamics}
+L. Deike, E. Ghabache, G. Liger-Belair, A.~K. Das, S. Zaleski, S. Popinet, and T. S{\'e}on, {\em Dynamics of jets produced by bursting bubbles}, Phys. Rev. Fluids {\bf 3},  013603  (2018).
+
+\bibitem{bouwhuis2012maximal}
+W. Bouwhuis, R.~C.~A. van~der Veen, T. Tran, D.~L. Keij, K.~G. Winkels, I.~R. Peters, D. van~der Meer, C. Sun, J.~H. Snoeijer, and D. Lohse, {\em Maximal air bubble entrainment at liquid-drop impact}, Phys. Rev. Lett. {\bf 109},  264501  (2012).
+
+\end{thebibliography}

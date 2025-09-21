@@ -1,0 +1,163 @@
+\providecommand{\noopsort}[1]{}\providecommand{\singleletter}[1]{#1}%
+\begin{thebibliography}{10}
+
+\bibitem{deike2022mass}
+L. Deike, {\em Mass transfer at the ocean--atmosphere interface: the role of wave breaking, droplets, and bubbles}, Annu. Rev. Fluid Mech. {\bf 54},  191  (2022).
+
+\bibitem{ciotti2020covid}
+M. Ciotti, M. Ciccozzi, A. Terrinoni, W.-C. Jiang, C.-B. Wang, and S. Bernardini, {\em The COVID-19 pandemic}, Crit. Rev. Clin. Lab. Sci. {\bf 57},  365  (2020).
+
+\bibitem{scharfman2016visualization}
+B.~E. Scharfman, A.~H. Techet, J.~W.~M. Bush, and L. Bourouiba, {\em Visualization of sneeze ejecta: steps of fluid fragmentation leading to respiratory droplets}, Exp. Fluids {\bf 57},  1  (2016).
+
+\bibitem{bourouiba2021fluid}
+L. Bourouiba, {\em The fluid dynamics of disease transmission}, Annu. Rev. Fluid Mech. {\bf 53},  473  (2021).
+
+\bibitem{pohlker2023respiratory}
+M.~L. P{\"o}hlker, C. P{\"o}hlker, O.~O. Kr{\"u}ger, J.-D. F{\"o}rster, T. Berkemeier, W. Elbert, J. Fr{\"o}hlich-Nowoisky, U. P{\"o}schl, G. Bagheri, E. Bodenschatz, {\it et~al.}, {\em Respiratory aerosols and droplets in the transmission of infectious diseases}, Rev. Mod. Phys. {\bf 95},  045001  (2023).
+
+\bibitem{kant2023bag}
+P. Kant, C. Pairetti, Y. Saade, S. Popinet, S. Zaleski, and D. Lohse, {\em Bag-mediated film atomization in a cough machine}, Phys. Rev. Fluids {\bf 8},  074802  (2023).
+
+\bibitem{li2025viscoelasticity}
+M. Li, Y. Saade, S. Zaleski, U. Sen, P. Kant, and D. Lohse, {\em Viscoelasticity reduces the droplet size in mucosalivary film fragmentation during intense respiratory events}, Phys. Rev. Fluids {\bf 10},  084001  (2025).
+
+\bibitem{makhnenko2021review}
+I. Makhnenko, E.~R. Alonzi, S.~A. Fredericks, C.~M. Colby, and C.~S. Dutcher, {\em A review of liquid sheet breakup: Perspectives from agricultural sprays}, J. Aerosol Sci. {\bf 157},  105805  (2021).
+
+\bibitem{villermaux2009single}
+E. Villermaux and B. Bossa, {\em Single-drop fragmentation determines size distribution of raindrops}, Nature Phys. {\bf 5},  697  (2009).
+
+\bibitem{josserand2016drop}
+C. Josserand and S.~T. Thoroddsen, {\em Drop impact on a solid surface}, Annu. Rev. Fluid Mech. {\bf 48},  365  (2016).
+
+\bibitem{aljedaani2018experiments}
+A.~B. Aljedaani, C. Wang, A. Jetly, and S.~T. Thoroddsen, {\em Experiments on the breakup of drop-impact crowns by Marangoni holes}, J. Fluid Mech. {\bf 844},  162  (2018).
+
+\bibitem{lhuissier2013drop}
+H. Lhuissier, C. Sun, A. Prosperetti, and D. Lohse, {\em Drop fragmentation at impact onto a bath of an immiscible liquid}, Phys. Rev. Lett. {\bf 110},  264503  (2013).
+
+\bibitem{kim2020raindrop}
+S. Kim, Z. Wu, E. Esmaili, J.~J. Dombroskie, and S. Jung, {\em How a raindrop gets shattered on biological surfaces}, Proc. Natl. Acad. Sci. USA {\bf 117},  13901  (2020).
+
+\bibitem{de2011production}
+G. De~Leeuw, E.~L. Andreas, M.~D. Anguelova, C.~W. Fairall, E.~R. Lewis, C. O'Dowd, M. Schulz, and S.~E. Schwartz, {\em Production flux of sea spray aerosol}, Rev. Geophys. {\bf 49},    (2011).
+
+\bibitem{dombrowski1954photographic}
+N. Dombrowski and R.~P. Fraser, {\em A photographic investigation into the disintegration of liquid sheets}, Philos. Trans. R. Soc. A {\bf 247},  101  (1954).
+
+\bibitem{taylor1959dynamics}
+G.~I. Taylor, {\em The dynamics of thin sheets of fluid. III. Disintegration of fluid sheets}, Proc. R. Soc. A {\bf 253},  313  (1959).
+
+\bibitem{lohse2020double}
+D. Lohse and E. Villermaux, {\em Double threshold behavior for breakup of liquid sheets}, Proc. Natl. Acad. Sci. USA {\bf 117},  18912  (2020).
+
+\bibitem{neel2018spontaneous}
+B. N{\'e}el and E. Villermaux, {\em The spontaneous puncture of thick liquid films}, J. Fluid Mech. {\bf 838},  192  (2018).
+
+\bibitem{opfer2014droplet}
+L. Opfer, I.~V. Roisman, J. Venzmer, M. Klostermann, and C. Tropea, {\em Droplet-air collision dynamics: Evolution of the film thickness}, Phys. Rev. E {\bf 89},  013023  (2014).
+
+\bibitem{jackiw2021aerodynamic}
+I.~M. Jackiw and N. Ashgriz, {\em On aerodynamic droplet breakup}, J. Fluid Mech. {\bf 913},  A33  (2021).
+
+\bibitem{stumpf2023drop}
+B. Stumpf, I.~V. Roisman, A.~L. Yarin, and C. Tropea, {\em Drop impact onto a substrate wetted by another liquid: corona detachment from the wall film}, J. Fluid Mech. {\bf 956},  A10  (2023).
+
+\bibitem{thoroddsen2006crown}
+S.~T. Thoroddsen, T.~G. Etoh, and K. Takehara, {\em Crown breakup by Marangoni instability}, J. Fluid Mech. {\bf 557},  63  (2006).
+
+\bibitem{lhuissier2013effervescent}
+H. Lhuissier and E. Villermaux, {\em `Effervescent'atomization in two dimensions}, J. Fluid Mech. {\bf 714},  361  (2013).
+
+\bibitem{gong2022effect}
+C. Gong, D. Li, and C. Kang, {\em Effect of oil-based emulsion on air bubbles in the spray sheet produced through the air-induction nozzle}, Pest Manag. Sci. {\bf 78},  5347  (2022).
+
+\bibitem{basilliskpopinet}
+S. Popinet and {collaborators}, Basilisk {C}, \url{http://basilisk.fr} (Last accessed: April, 2025), 2013--2025.
+
+\bibitem{supplMaterial}
+See Supplemental Material at ({URL} to be inserted by the publisher) for a description of the governing equations, numerical method, initial shape effects and asymmetry effects, which includes Refs. \cite{coderepository,tryggvason2011direct, brackbill1992continuum, sussman2000coupled, saini2025implementation, popinet2015quadtree, popinet2009accurate, popinet2018numerical, duchemin2002jet, deike2018dynamics, bouwhuis2012maximal}, 2025.
+
+\bibitem{coderepository}
+A.~K. Dixit and V. Sanjay, Code repository: {Holey Sheets}, \href{https://github.com/comphy-lab/HoleySheet}{https://github.com/comphy-lab/HoleySheet}, 2025.
+
+\bibitem{tryggvason2011direct}
+G. Tryggvason, R. Scardovelli, and S. Zaleski, {\em {Direct} {Numerical} {Simulations} of {Gas}--{Liquid} {Multiphase} {Flows}} (Cambridge University Press, ADDRESS, 2011).
+
+\bibitem{brackbill1992continuum}
+J.~U. Brackbill, D.~B. Kothe, and C. Zemach, {\em A continuum method for modeling surface tension}, J. Comput. Phys. {\bf 100},  335  (1992).
+
+\bibitem{sussman2000coupled}
+M. Sussman and E.~G. Puckett, {\em A coupled level set and volume-of-fluid method for computing 3D and axisymmetric incompressible two-phase flows}, J. Comput. Phys. {\bf 162},  301  (2000).
+
+\bibitem{saini2025implementation}
+M. Saini, V. Sanjay, Y. Saade, D. Lohse, and S. Popinet, {\em Implementation of integral surface tension formulations in a volume of fluid framework and their applications to Marangoni flows}, arXiv preprint arXiv:2502.02712  (2025).
+
+\bibitem{popinet2015quadtree}
+S. Popinet, {\em A quadtree-adaptive multigrid solver for the Serre--Green--Naghdi equations}, J. Comput. Phys. {\bf 302},  336  (2015).
+
+\bibitem{popinet2009accurate}
+S. Popinet, {\em An accurate adaptive solver for surface-tension-driven interfacial flows}, J. Comput. Phys. {\bf 228},  5838  (2009).
+
+\bibitem{popinet2018numerical}
+S. Popinet, {\em Numerical models of surface tension}, Annu. Rev. Fluid Mech. {\bf 50},  49  (2018).
+
+\bibitem{duchemin2002jet}
+L. Duchemin, S. Popinet, C. Josserand, and S. Zaleski, {\em Jet formation in bubbles bursting at a free surface}, Phys. Fluids {\bf 14},  3000  (2002).
+
+\bibitem{deike2018dynamics}
+L. Deike, E. Ghabache, G. Liger-Belair, A.~K. Das, S. Zaleski, S. Popinet, and T. S{\'e}on, {\em Dynamics of jets produced by bursting bubbles}, Phys. Rev. Fluids {\bf 3},  013603  (2018).
+
+\bibitem{bouwhuis2012maximal}
+W. Bouwhuis, R.~C.~A. van~der Veen, T. Tran, D.~L. Keij, K.~G. Winkels, I.~R. Peters, D. van~der Meer, C. Sun, J.~H. Snoeijer, and D. Lohse, {\em Maximal air bubble entrainment at liquid-drop impact}, Phys. Rev. Lett. {\bf 109},  264501  (2012).
+
+\bibitem{jalaal2012fragmentation}
+M. Jalaal and K. Mehravaran, {\em Fragmentation of falling liquid droplets in bag breakup mode}, Int. J. Multiph. Flow {\bf 47},  115  (2012).
+
+\bibitem{sanjay2025unifying}
+V. Sanjay and D. Lohse, {\em Unifying theory of scaling in drop impact: forces and maximum spreading diameter}, Phys. Rev. Lett. {\bf 134},  104003  (2025).
+
+\bibitem{taylor1973making}
+G.~I. Taylor and D.~H. Michael, {\em On making holes in a sheet of fluid}, J. Fluid Mech. {\bf 58},  625  (1973).
+
+\bibitem{energyCriterion}
+Assuming a toroidal initial hole shape \cite{ilton2016direct, goudarzi2023hole, moriarty1993dynamic, sharma1990energetic}, the excess surface energy ${\Delta\Xi}$ of a hole of outer radius $R$ can be written as $\dfrac{\Delta\Xi}{\gamma h_0^2} = -\pi + {\pi}^2 \left( \dfrac{R}{h_0} \right) - 2 \pi \left( \dfrac{R}{h_0} \right)^2$.
+
+\bibitem{ilton2016direct}
+M. Ilton, C. DiMaria, and K. Dalnoki-Veress, {\em Direct measurement of the critical pore size in a model membrane}, Phys. Rev. Lett. {\bf 117},  257801  (2016).
+
+\bibitem{goudarzi2023hole}
+H.~V. Goudarzi, Ph.D. thesis, Sorbonne Universit{\'e}, 2023.
+
+\bibitem{moriarty1993dynamic}
+J.~A. Moriarty and L.~W. Schwartz, {\em Dynamic considerations in the closing and opening of holes in thin liquid films}, J. Colloid Interface Sci. {\bf 161},  335  (1993).
+
+\bibitem{sharma1990energetic}
+A. Sharma and E. Ruckenstein, {\em Energetic criteria for the breakup of liquid films on nonwetting solid surfaces}, J. Colloid Interface Sci. {\bf 137},  433  (1990).
+
+\bibitem{kolinski2014drops}
+J.~M. Kolinski, L. Mahadevan, and S.~M. Rubinstein, {\em Drops can bounce from perfectly hydrophilic surfaces}, Europhys. Lett. {\bf 108},  24001  (2014).
+
+\bibitem{avila2023transition}
+M. Avila, D. Barkley, and B. Hof, {\em Transition to turbulence in pipe flow}, Annu. Rev. Fluid Mech. {\bf 55},  575  (2023).
+
+\bibitem{samanta2013elasto}
+D. Samanta, Y. Dubief, M. Holzner, C. Sch{\"a}fer, A.~N. Morozov, C. Wagner, and B. Hof, {\em Elasto-inertial turbulence}, Proc. Natl. Acad. Sci. USA {\bf 110},  10557  (2013).
+
+\bibitem{eggers2011subtle}
+J. Eggers, {\em The subtle dynamics of liquid sheets}, J. Fluid Mech. {\bf 672},  1  (2011).
+
+\bibitem{wang2015nonlinear}
+C. Wang, L. Yang, and H. Ye, {\em Nonlinear dual-mode instability of planar liquid sheets}, J. Fluid Mech. {\bf 778},  621  (2015).
+
+\bibitem{matsuuchi1974modulational}
+K. Matsuuchi, {\em Modulational instability of nonlinear capillary waves on thin liquid sheet}, J. Phys. Soc. Jpn. {\bf 37},  1680  (1974).
+
+\bibitem{mehring1999nonlinear}
+C. Mehring and W.~A. Sirignano, {\em Nonlinear capillary wave distortion and disintegration of thin planar liquid sheets}, J. Fluid Mech. {\bf 388},  69  (1999).
+
+\bibitem{squire1953investigation}
+H.~B. Squire, {\em Investigation of the instability of a moving liquid film}, Br. J. Appl. Phys. {\bf 4},  167  (1953).
+
+\end{thebibliography}

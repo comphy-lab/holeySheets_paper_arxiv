@@ -1,0 +1,9 @@
+\contentsline {title}{Supplementary material: \\Holey sheets:Double-Threshold Rupture of Draining Liquid Films}{1}{section*.1}%
+\tocdepth@munge 
+\contentsline {section}{\numberline {}Contents}{1}{section*.2}%
+\tocdepth@restore 
+\contentsline {section}{\numberline {I}Governing equations}{1}{section*.3}%
+\contentsline {section}{\numberline {II}Numerical method}{2}{section*.4}%
+\contentsline {section}{\numberline {III}Characterize and estimate the initial cavity shape influenced by additional physical inhomogeneities}{2}{section*.5}%
+\contentsline {section}{\numberline {IV}Effects of bubble asymmetry $\chi /R_0$}{2}{section*.6}%
+\contentsline {section}{\numberline {}References}{3}{section*.7}%
